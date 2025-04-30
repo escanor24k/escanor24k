@@ -12,14 +12,13 @@
   From my early days experimenting with simple scripts to the complex world of web development, <br />
   I've always been drawn to the allure of technology and problem-solving. <br />
   Coding is more than just a job to me; it's a lifelong fascination. <br />
-  In the ever-evolving world of front-end development, I understand the importance of staying ahead. <br />
+  In the ever-evolving world of web development, I understand the importance of staying ahead. <br />
   I embrace new technologies and methodologies, attending conferences, taking online courses, and collaborating with fellow developers. <br />
   Learning is a never-ending journey, and I'm on board.
 </p>
 <br />
 
-- 👯 I’m looking to collaborate as a Junior Frontend-Developer
-- 🌱 I’m currently learning JavaScript & React
+- 👯 I’m looking to collaborate as a Junior Frontend/Fullstack-Developer
 - 📫 You can contact me via k.buebel@hotmail.com
 
 <h3 align="center">My Skills:</h3>
