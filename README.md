@@ -2,7 +2,7 @@
 
 <h4>👋Nice to meet you!</h4>
 <p>
-  Hey there! I'm Kevin, a passionate 32-year-old front-end developer with a deep love for coding.<br />
+  Hey there! I'm Kevin, a passionate 32-year-old Fullstack-Developer with a deep love for coding.<br />
   I believe in the power of design-driven development. Every line of code I write is aimed at not just functionality, <br />
   but also aesthetic appeal and user-friendliness. I take pride in turning concepts into captivating, interactive web applications.
 </p>
